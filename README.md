@@ -12,7 +12,7 @@
 <div>
 
 - 🔭 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- 🌱 I’m currently learning ReactJS, GraphQL.
+- 🌱 I’m currently learning ReactJS, NodeJS.
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: I am a tea dependent life form.

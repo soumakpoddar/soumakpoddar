@@ -7,7 +7,7 @@
 
 </span>
 
-<img src="./code.gif" align="right" alt="Coder GIF" width="480" height="300">
+<img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" align="right" alt="Coder GIF" width="480" height="300">
  
 <div>
 

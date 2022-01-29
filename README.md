@@ -12,7 +12,7 @@
 <div>
 
 - 🔭 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- 🌱 I’m currently learning ReactJS, NodeJS.
+- 🌱 Currently Backend Software Engineer @ ![MakeMyTrip](https://i.ibb.co/jGzFsc5/Make-My-Trip-Logo-2.png)
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: I am a tea dependent life form.

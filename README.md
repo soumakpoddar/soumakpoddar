@@ -3,7 +3,7 @@
 
 [![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://www.instagram.com/soumaksp/)
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://www.linkedin.com/in/soumak-poddar-4393bb14b/)
-[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://soumakpoddar-55.web.app/)
+[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://soumakpoddar.netlify.app/)
 
 </span>
 
